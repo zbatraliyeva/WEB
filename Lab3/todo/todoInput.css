@@ -1,0 +1,37 @@
+.btn {
+  outline: none;
+  box-shadow: none;
+  border-width: 2px;
+  border-radius: 3px;
+  border-style: solid;
+  padding: 1px;
+}
+
+.btn-primary {
+  color: rgba(73,204,249,1.0);
+  border-color: rgba(73,204,249,1.0);
+  background-color: transparent;
+}
+
+input {
+  width: 71%;
+  border:none;
+  border-top: 2px solid rgba(73,204,249,1.0);
+  border-bottom: 2px solid rgba(73,204,249,1.0);
+  border-right: 2px solid rgba(186, 63, 63,1.0);
+  border-left: 2px solid rgba(186, 63, 63,1.0);
+  margin-right: 3px;
+  margin-left: 54px;
+  margin-top: 9px;
+  padding: 3px;
+  line-height: 15px;
+}
+
+input:focus {
+  outline: none;
+  border: none;
+  border-top: 2px solid rgba(73,204,249,1.0);
+  border-bottom: 2px solid rgba(73,204,249,1.0);
+  border-right: 2px solid rgba(186, 63, 63,1.0);
+  border-left: 2px solid rgba(186, 63, 63,1.0);
+}
