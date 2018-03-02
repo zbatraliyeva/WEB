@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  width:100%;
+}
+
+.div{
+  background: #fff;
+  width: 150px;
+  height: 60px;
+  border-style: solid;
+  border-color:#000;
+  border-width: 3px;
+  border-radius: 5px;
+  text-align:center;
+  
+}
