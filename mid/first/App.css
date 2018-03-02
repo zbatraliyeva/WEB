@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  width:100%;
+}
+
+.div{
+  float:left;
+  background: #fff;
+  width: 150px;
+  height: 110px;
+  border-style: solid;
+  border-color:#000;
+  border-width: 3px;
+  border-radius: 5px;
+  margin-right: 130px;
+  margin-left: 160px;
+}
+/*.App div:hover,.App div:active,.App div:focus {
+  background: #00f;
+}*/
